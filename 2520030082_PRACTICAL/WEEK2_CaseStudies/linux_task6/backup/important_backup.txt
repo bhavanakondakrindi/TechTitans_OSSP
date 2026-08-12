@@ -1,0 +1,10 @@
+Line 1: Important project information
+Line 2: Student details
+Line 3: Project requirements
+Line 4: Database information
+Line 5: Testing information
+Line 6: Configuration details
+Line 7: Security information
+Line 8: Backup information
+Line 9: Final project notes
+Line 10: End of important information
